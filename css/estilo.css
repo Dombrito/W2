@@ -1,0 +1,31 @@
+* {
+    background: burlywood;
+}
+
+body {
+    font-family: Verdana;
+    width: 940px;
+    margin: 0 auto; /* Centralizar o conteúdo na página  */
+    padding: 0 30px; /* Espaço de respiro nos cantos esquerdo e direito */
+}
+
+h1 {
+    color: #3d3d3d;
+    background: #e1edf2;
+    padding: 10px; /* Espaço de respiro interno para o título */
+}
+
+h2 {
+    border-bottom: 3px solid black;
+}
+
+figure {
+    text-align: center;
+    background: whitesmoke;
+    color: lightgrey;
+    margin: 15px 30px; /* Afastamento das figuras dos cantos e das caixas antes e depois */
+}
+
+figure img {
+    margin-bottom: 10px; /* Afastamento da legenda da imagem */
+}
